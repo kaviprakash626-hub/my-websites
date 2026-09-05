@@ -1,0 +1,49 @@
+body{
+    font-family: Arial;
+    background-color:rgb(236, 222, 222);
+    margin: 0;
+    
+}
+
+header{
+    background-color:rgb(222, 211, 211);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+nav{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    gap: 10px;
+}
+
+.prakash{
+    background-color:white;
+    text-align: center;
+    padding: 50px;
+}
+h2{
+    font-size: 30px;
+    
+}
+
+h3{
+    color: blue;
+}
+
+.rating{
+    color:goldenrod;
+    font-size: 25px;
+}
+
+.review{
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+   
