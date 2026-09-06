@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+header {
+    background-color: blue;
+    color: white;
+    padding: 15px;
+}
+
+.container {
+    width: 90%;
+    margin: 30px auto;
+}
+
+.bus-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.h2 {
+    color: blue;
+}
+
+.bus-type {
+    background-color: orange;
+    color: white;
+    padding: 10px;
+}
+
+.details {
+    display: flex;
+    gap: 30px;
+    text-align: left;
+}
+
+.details div {
+    background-color: rgb(169, 161, 161);
+    padding: 15px;
+    flex: 1;
+}
+
+.bus-card b {
+    color: green;
+}
