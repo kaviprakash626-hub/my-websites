@@ -41,7 +41,7 @@ header {
 
 .details div {
     background-color: rgb(169, 161, 161);
-    padding: 10px;
+    padding: 0px;
     flex: 1;
 }
 
