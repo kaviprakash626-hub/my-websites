@@ -11,10 +11,14 @@ header {
     color: white;
     padding: 15px;
 }
-
+@media(max-width:600px){
 .container {
     width: 90%;
-    margin: 30px auto;
+    margin: 10px;
+}
+h1 {
+    font-size:22px;
+}
 }
 
 .bus-card {
