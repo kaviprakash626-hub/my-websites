@@ -51,3 +51,13 @@ header {
 .bus-card b {
     color: green;
 }
+
+@media(max-vidth:700px){
+    .details{
+        display: block;
+    }
+    .details>div{
+        width: 100%;
+    }
+
+}
